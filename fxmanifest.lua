@@ -22,11 +22,6 @@ dependencies {
 	'vorp_utils'
 }
 
-escrow_ignore {
-	'config.lua',
-	'translation/translation.lua'
-}
-
 lua54 'yes'
 
 author '<4NDR4D3/>'
